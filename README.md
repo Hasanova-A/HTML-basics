@@ -9,7 +9,7 @@ Salam! Bu repository-də front-end sahəsinə giriş edərkən və veb-in təmə
 ## 📂 Repository-də nələr var?
 Buradakı fayllar müxtəlif HTML konseptlərini test etmək üçün yaratdığım kiçik tapşırıqlardan ibarətdir:
 
-* **Mürəkkəb Siyahılar (Nested Lists):** `index.html` və ilk 3 tapşırıqda (`task1`, `task2`, `task3`) iç-içə keçmiş nizamlı (`<ol>`) və nizamsız (`<ul>`) siyahıların fərqli tiplərini (A, i, circle, square və s.) praktik etmişəm. Xüsusilə kurs kurrikulumu və ya tədris planı kimi çoxşaxəli məlumatları vizuallaşdırmaq üçün yaxşı bir məşq oldu.
+* **Mürəkkəb Siyahılar (Nested Lists):** `complex-lists.html` və ilk 3 tapşırıqda iç-içə keçmiş nizamlı (`<ol>`) və nizamsız (`<ul>`) siyahıların fərqli tiplərini (A, i, circle, square və s.) praktik etmişəm. Xüsusilə kurs kurrikulumu və ya tədris planı kimi çoxşaxəli məlumatları vizuallaşdırmaq üçün yaxşı bir məşq oldu.
 * **Media İnteqrasiyası:** `task4.html` faylı daha çox real bir məqalə/səhifə strukturuna bənzəyir. Burada sadəcə mətn deyil, həm də xarici linkdən şəkil (`<img>`), lokal qovluqdan video (`<video>`) və səs (`<audio>`) fayllarının səhifəyə necə əlavə edildiyini tətbiq etmişəm.
 * **Mətn Formatlama:** Başlıqlar (`<h1>` - `<h6>`), paraqraflar, qalın mətnlər (`<b>`), alt və üst yazılar (`<sup>`) və ayırıcı xətlər (`<hr>`) kimi təməl etiketləri işlətmişəm.
 * **Xarici CSS (External CSS):** Səhifələrin bir qismini `style.css` faylına bağlayaraq, ID (`#style`) və Element selektorları vasitəsilə sadə rəng və arxaplan stilləri vermişəm.
